@@ -100,7 +100,7 @@ A single fixed fluorescence image captures cells at only one point in time. It c
 
 7. Files Included
 
-data/fiji_results.csv – Fiji cell measurements used for analysis
+data/Fiji_results.csv – Fiji cell measurements used for analysis
 
 scripts/analyze_cells.R – R analysis script
 
